@@ -3,7 +3,7 @@
 
 """
 
-__all__ = ['']
+__all__ = ['hello']
 
 
 def hello():
